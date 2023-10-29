@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'ESEthroughAI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09CB368252354E2399B39D1AA1C12670 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C202377604EB479BA9557B1F0A335E6F }}
