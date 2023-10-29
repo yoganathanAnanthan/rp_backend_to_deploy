@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "rp-backend"
+version = "0.1.0"
+description = ""
+authors = ["Arivu <thillaiarivu2000@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+fastapi = "0.103.0"
+uvicorn = {extras = ["standard"], version = "^0.23.2"}
+torch = "^2.1.0"
+transformers = "^4.34.1"
+nltk = "^3.8.1"
+flashtext = "^2.7"
+fuzzywuzzy = "^0.18.0"
+openai = "^0.28.1"
+sentencepiece = "^0.1.99"
+spacy = "^3.7.2"
+wheel = "^0.41.2"
+gtts = "^2.4.0"
+pandas = "2.0.3"
+language-tool-python = "^2.7.1"
+scikit-learn = "^1.3.2"
+gensim = "^4.3.2"
+keras = "2.13.1"
+tensorflow-io-gcs-filesystem = "0.31.0"
+tensorflow = "2.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

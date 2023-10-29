@@ -1,0 +1,47 @@
+import asyncio
+from pydub import AudioSegment
+import os
+
+
+
+    # Split the context into individual questions
+    questions = context.split("?")
+
+    # Initialize an empty list to store audio file names
+    audio_files = []
+
+    for question in questions:
+        if question.strip():
+            # Create a gTTS object for each question
+            tts = gTTS(question)
+
+            # Generate a unique filename for each question
+            filename = f"question_{questions.index(question) + 1}.mp3"
+
+            # Specify the full path to save the audio file
+            full_path = os.path.join("C:\Users\sutha\OneDrive\Desktop\backend", filename)
+
+            # Save the audio file
+            tts.save(full_path)
+
+            # Add the filename to the list
+            audio_files.append(full_path)
+
+            # Add a 30-second delay between each question (except the last one)
+            if question != questions[-1]:
+                await asyncio.sleep(30)
+
+    # Combine all audio files into one output file
+    combined_audio_filename = "output.mp3"
+    combined_audio = AudioSegment.empty()
+
+    for audio_file in audio_files:
+        audio = AudioSegment.from_mp3(audio_file)
+        combined_audio += audio
+
+    combined_audio.export(combined_audio_filename, format="mp3")
+
+    # Provide a download link for the combined audio
+    response = FileResponse(combined_audio_filename, headers={"Content-Disposition": "attachment; filename=output.mp3"})
+
+    return response

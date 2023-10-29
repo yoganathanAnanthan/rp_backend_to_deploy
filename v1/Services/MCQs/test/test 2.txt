@@ -1,0 +1,88 @@
+[
+    {
+        "question": "What company produces Avatar?",
+        "answer": "Lightstorm entertainment"
+    },
+    {
+        "question": "Along with its associated attractions, what other attraction does Avatar provide?",
+        "answer": "Theme park attractions"
+    },
+    {
+        "question": "What type of films does Avatar contain?",
+        "answer": "Science fiction films"
+    },
+    {
+        "question": "What is Avatar?",
+        "answer": "Media franchise"
+    },
+    {
+        "question": "What studios distributed Avatar?",
+        "answer": "Century studios"
+    },
+    {
+        "question": "What was the name of the American media franchise created by James Cameron?",
+        "answer": "James cameron"
+    },
+    {
+        "question": "Along with theme parks and merchandise, what entertainment is included in Avatar?",
+        "answer": "Video games"
+    },
+    {
+        "question": "Along with attractions, video games and theme parks, what is associated with Avatar?",
+        "answer": "Merchandise"
+    },
+    {
+        "question": "What kind of movies is Avatar?",
+        "answer": "Series"
+    },
+    {
+        "question": "What is the name of the American media franchise created by James Cameron?",
+        "answer": "Avatar"
+    }
+]
+
+
+
+
+[
+    {
+        "question": "Who produces Avatar's movies?",
+        "answer": "Lightstorm entertainment"
+    },
+    {
+        "question": "Along with video games and associated merchandise, what else is associated with Avatar?",
+        "answer": "Theme park attractions"
+    },
+    {
+        "question": "What type of films is Avatar?",
+        "answer": "Science fiction films"
+    },
+    {
+        "question": "What is Avatar?",
+        "answer": "Media franchise"
+    },
+    {
+        "question": "What company distributes Avatar's content?",
+        "answer": "Century studios"
+    },
+    {
+        "question": "Who created Avatar?",
+        "answer": "James cameron"
+    },
+    {
+        "question": "Along with theme parks and epic science fiction, what entertainment is Avatar associated with?",
+        "answer": "Video games"
+    },
+    {
+        "question": "Along with video games and theme parks, what is Avatar associated with?",
+        "answer": "Merchandise"
+    },
+    {
+        "question": "What type of series is Avatar?",
+        "answer": "Series"
+    },
+    {
+        "question": "What is the name of the American media franchise created by James Cameron?",
+        "answer": "Avatar"
+    }
+]

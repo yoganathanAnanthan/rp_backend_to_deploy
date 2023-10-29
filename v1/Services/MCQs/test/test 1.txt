@@ -1,0 +1,115 @@
+[
+    {
+        "question": "Who were Steve Jobs and Steve Wozniak?",
+        "answer": "College dropouts steve jobs"
+    },
+    {
+        "question": "Who joined Steve Jobs at Notre Dame?",
+        "answer": "Steve wozniak"
+    },
+    {
+        "question": "What did Steve Jobs and Steve Wozniak want to change the way people view what?",
+        "answer": "Computers"
+    },
+    {
+        "question": "What was the name of the company Steve Jobs and Steve Wozniak?",
+        "answer": "Company"
+    },
+    {
+        "question": "In addition to homes, where did Steve Jobs want to keep computers small enough for people to use them?",
+        "answer": "Offices"
+    },
+    {
+        "question": "Steve Jobs and Steve Wozniak wanted computers small enough for what to use them?",
+        "answer": "People"
+    },
+    {
+        "question": "Where did Steve Jobs want to keep computers small enough for people to use them?",
+        "answer": "Homes"
+    },
+    {
+        "question": "When was the company founded?",
+        "answer": "April"
+    }
+]
+
+
+
+
+[
+    {
+        "question": "What kind of people were the founders of Apple?",
+        "answer": "College dropouts steve jobs"
+    },
+    {
+        "question": "Along with Steve Jobs, who was the founder of Apple?",
+        "answer": "Steve wozniak"
+    },
+    {
+        "question": "What did Steve Jobs and Steve Wozniak hope to change the way people viewed computers?",
+        "answer": "Computers"
+    },
+    {
+        "question": "What was the name of the company founded by Jobs and Wozniak?",
+        "answer": "Company"
+    },
+    {
+        "question": "Jobs and Wozniak wanted people to have computers in their homes and what else?",
+        "answer": "Offices"
+    },
+    {
+        "question": "Jobs and Wozniak wanted computers small enough for whom to be used in their offices?",
+        "answer": "People"
+    },
+    {
+        "question": "Jobs and Wozniak wanted computers to be used in their people's what?",
+        "answer": "Homes"
+    },
+    {
+        "question": "What month and year was the company founded?",
+        "answer": "April"
+    }
+]
+
+
+
+[
+    {
+        "question": "Who founded Apple?",
+        "answer": "College dropouts steve jobs"
+    },
+    {
+        "question": "Who was Steve Jobs and Steve Wozniak founder of Apple?",
+        "answer": "Steve wozniak"
+    },
+    {
+        "question": "Steve Jobs and Steve Wozniak wanted to change the way people viewed what?",
+        "answer": "Computers"
+    },
+    {
+        "question": "Steve Jobs and Steve Wozniak brought to what company in 1976?",
+        "answer": "Company"
+    },
+    {
+        "question": "Steve Jobs and Steve Wozniak wanted to make computers small enough for people to have them in their homes or what?",
+        "answer": "Offices"
+    },
+    {
+        "question": "Steve Jobs and Steve Wozniak wanted to make computers small enough for who to view computers?",
+        "answer": "People"
+    },
+    {
+        "question": "When was Apple founded?",
+        "answer": "April"
+    },
+    {
+        "question": "What company was founded on April 1, 1976?",
+        "answer": "Apple"
+    },
+    {
+        "question": "Where did Steve Jobs and Steve Wozniak want computers to be found?",
+        "answer": "Homes"
+    }
+]
+
+

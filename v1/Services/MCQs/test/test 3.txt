@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Along with assets and trades, what is tracked on a blockchain?",
+        "answer": "Records assets"
+    },
+    {
+        "question": "What is digital money that doesn't require a bank or financial institution to verify transactions?",
+        "answer": "Cryptocurrency"
+    },
+    {
+        "question": "What is verified on a blockchain?",
+        "answer": "Transactions"
+    },
+    {
+        "question": "Cryptocurrency does not require a bank or financial what to verify transactions?",
+        "answer": "Institution"
+    },
+    {
+        "question": "What is cryptocurrency used for?",
+        "answer": "Investment"
+    },
+    {
+        "question": "What kind of ledger tracks and tracks transactions?",
+        "answer": "Blockchain"
+    },
+    {
+        "question": "What is another use for cryptocurrency?",
+        "answer": "Purchases"
+    },
+    {
+        "question": "What is a blockchain?",
+        "answer": "Ledger"
+    },
+    {
+        "question": "What is tracked on a blockchain?",
+        "answer": "Trades"
+    },
+    {
+        "question": "What is cryptocurrency?",
+        "answer": "Money"
+    }
+]
+
+
+[
+    {
+        "question": "What does a blockchain do?",
+        "answer": "Records assets"
+    },
+    {
+        "question": "What is digital money that doesn't require a bank or financial institution to verify transactions?",
+        "answer": "Cryptocurrency"
+    },
+    {
+        "question": "What is verified and recorded on a blockchain?",
+        "answer": "Transactions"
+    },
+    {
+        "question": "Cryptocurrency doesn't require a bank or financial what to verify transactions?",
+        "answer": "Institution"
+    },
+    {
+        "question": "Along with purchases, as what can cryptocurrency be used?",
+        "answer": "Investment"
+    },
+    {
+        "question": "What is the name of the ledger that tracks and records assets and trades?",
+        "answer": "Blockchain"
+    },
+    {
+        "question": "What can cryptocurrency be used for?",
+        "answer": "Purchases"
+    },
+    {
+        "question": "What is a blockchain?",
+        "answer": "Ledger"
+    },
+    {
+        "question": "A blockchain tracks assets and what else?",
+        "answer": "Trades"
+    },
+    {
+        "question": "What is cryptocurrency?",
+        "answer": "Money"
+    }
+]
